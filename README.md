@@ -1,6 +1,6 @@
 # AccountingFraudDetection (Java)
 
-![alt text](/refresherDemo.png)
+![alt text](/demo.png)
 
 
 This program implemented in Java computationally determines if the data in a given dataset follows Benford’s law.
