@@ -49,7 +49,7 @@ Your output should appear as follows:
 
 
 
-## How to use it?
+## How to use it? ( You can download and click the runnableApp.jar to run this app on any computer windows or mac)
 
 1.	Open the AccountingFraudDetection app on your computer
 2.  Click the "read file" button to read a real life dataset (any company accounting data)
